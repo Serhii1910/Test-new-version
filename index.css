@@ -1,0 +1,19 @@
+﻿body {
+}
+div {
+    border: 1px solid #808080;
+    text-align: center;
+    line-height: 50px;
+}
+[data-type='#'] {
+    background-color: #d78d46;
+}
+[data-type='*'] {
+    background-color: #4cff00;
+}
+[data-type='O'] {
+    background-color: #ffd800;
+}
+[data-type='A'] {
+    background-color: #ff0000;
+}
